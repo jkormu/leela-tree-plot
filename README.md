@@ -32,5 +32,5 @@ cd lc0_gmltree
 sh build.sh
 ``` 
 - clone leela-tree-plot
-- go through the examples in example.ipynb and start creating your own plots
+- go through the examples in examples.ipynb and start creating your own plots
 
