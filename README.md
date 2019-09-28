@@ -16,7 +16,7 @@ These tools:
 
 ## How?
 It is assmued you are familiar with LC0 and know how to build it:
--get dependencies (tested with python 3.7):
+- get dependencies (tested with python 3.7):
 ```
 python-chess              0.28.3
 plotly                    4.1.1
