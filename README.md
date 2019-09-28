@@ -24,7 +24,7 @@ numpy                     1.17.2
 networkx                  2.3
 jupyter notebook (optional for running example.ipynb notebook)
 ```
--Clone and build modified LC0 version capable of writing search tree as a gml-file:
+- Clone and build modified LC0 version capable of writing search tree as a gml-file:
 
 ```
 git clone -b 0.22_gmltree --recurse-submodules https://github.com/jkormu/lc0.git lc0_gmltree 
