@@ -8,9 +8,9 @@ The plots are created with Plotly. Plots are written in html format and are inte
 leela-tree-plot depends on modified LC0 binary that is capable of saving the search graph as a gml-file.
 These tools:
 - call lc0 exes to run searches
-- reads gml-files
-- runs Buchheim's tree layout algorithm
-- plots the search tree as Plotly html plot
+- read gml-files
+- run Buchheim's tree layout algorithm
+- plot the search tree as Plotly html plot
 
 ![Alt text](images/example_plot.png?raw=true)
 
