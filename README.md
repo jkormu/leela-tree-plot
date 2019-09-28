@@ -15,7 +15,7 @@ These tools:
 ![Alt text](images/example_plot.png?raw=true)
 
 ## How?
-It is assmued you are familiar with LC0 and know how to build it:
+It is assumed you are familiar with LC0 and know how to build it:
 - get dependencies (tested with python 3.7):
 ```
 python-chess              0.28.3
